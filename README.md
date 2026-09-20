@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy David Cedeño! 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> | Apasionado por el desarrollo web y la tecnología 🚀
+  <b>Full Stack Developer</b> 🚀
 </p>
 
 <p align="center">
